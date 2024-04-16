@@ -44,4 +44,5 @@ function all_checks() {
  tcp_check
  kernel_check
 }
+
 all_checks
